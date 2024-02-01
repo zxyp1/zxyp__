@@ -2,7 +2,7 @@ FROM node:20-alpine
 
 RUN apk add --no-cache git
 
-RUN git clone https://github.com/zxypmmmmm/interstellar.git
+RUN git clone https://github.com/zxypmmmmm/zxyp--.git
 
 WORKDIR /Interstellar
 RUN npm install
